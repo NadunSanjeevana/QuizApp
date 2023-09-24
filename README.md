@@ -6,11 +6,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Database Setup](#database-setup)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -28,7 +24,6 @@ Welcome to the Spring Boot Quiz App backend! This application provides the backe
 - **Spring Boot:** The primary framework for building the backend.
 - **PostgreSQL:** The database used to store quiz and question data.
 - **Spring Security:** For securing API endpoints.
-- **[Other Libraries/Technologies]:** Mention any other libraries or technologies used in your project.
 
 ## Database Setup
 
