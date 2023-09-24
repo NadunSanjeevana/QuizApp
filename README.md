@@ -1,6 +1,5 @@
-# Spring Boot Quiz App Backend
+# Spring Boot Quiz App 
 
-![Your Project Logo (if available)](project-logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
